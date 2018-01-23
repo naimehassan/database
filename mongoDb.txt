@@ -1,4 +1,4 @@
-### MongoDB Windows Configuration
+MongoDB Windows Configuration
 
 MongoDB Directory Structure
 	C:\database\mongodb\
